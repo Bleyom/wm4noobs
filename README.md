@@ -7,7 +7,7 @@ ___
 
 <p align="center">
 	<h3 align="center">Window Manager 4 Noobs</h3>
-	<p align="center">:mage_man: Torne-se um mago do Linux :mage_man:</p>
+	<p align="center">:mage_man: Conviértase en un mago de Linux :mage_man:</p>
 </p>
 
 <p align="center">
@@ -21,13 +21,13 @@ ___
 
 <br>
 
-<h3 align="center">Roadmap</h3>
+<h3 align="center">Hoja de ruta</h3>
 
 <br>
 
 <hr>
 
-<p>Nós recomendamos o <a href="https://github.com/lucashe4rt/linux4noobs">Linux 4 Noobs</a>, caso você tenha dificuldade em manipular o básico do Linux. Você irá precisar desses conhecimentos.</p>
+<p>Nosotros recomendamos <a href="https://github.com/lucashe4rt/linux4noobs">Linux 4 Noobs</a>, si tienes dificultades para manejar los fundamentos de linux. Necesitaras de estos conocimientos</p>
 
 <hr>
 
@@ -35,7 +35,7 @@ ___
 
 <h2>i3wm</h2>
 
-<h3>1. Introdução</h3>
+<h3>1. Introduccion</h3>
 <ul>
   <li>1.1 - <a href="i3wm/01 - Introdução/1.1-O_que_e_e_porque_usar.md">O que é e porque usar</a></li>
   <li>1.2 - <a href="i3wm/01 - Introdução/1.2-Instalacao.md">Instalação</a></li>
@@ -43,14 +43,14 @@ ___
   <li>1.4 - <a href="i3wm/01 - Introdução/1.4-Diretorios_e_funcionalidades.md">Diretórios e funcionalidades</a></li>  
 </ul>
 
-<h3>2. Usabilidade</h3>
+<h3>2. Usabilidad</h3>
 <ul>
   <li>2.1 - <a href="i3wm/02 - Usabilidade/2.1-Abrindo_processos.md">Abrindo processos</a></li>
   <li>2.2 - <a href="i3wm/02 - Usabilidade/2.2-Manipulando_janelas.md">Manipulando posicionamento de janelas</a></li>
   <li>2.3 - <a href="i3wm/02 - Usabilidade/2.3-Matando_processos.md">Matando processos</a></li>
 </ul>
 
-<h3>3. Arquivo de Configuração</h3>
+<h3>3. Archivo de Configuracion</h3>
 <ul>
   <li>3.1 - <a href="i3wm/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendendo conceitos básicos</a></li>
   <li>3.2 - <a href="i3wm/03 - Arquivo config/3.2-Criando_atalhos.md">Criando seus próprios atalhos</a></li>
@@ -58,13 +58,13 @@ ___
   <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4-Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
 </ul>
 
-<h3>4. Barra de Status</h3>
+<h3>4. Barra de Estado</h3>
 <ul>
   <li>4.1 - <a href="i3wm/04 - Barra de Status/4.1-i3blocks.md">i3blocks</a></li>
   <li>4.2 - <a href="i3wm/04 - Barra de Status/4.2-polybar.md">polybar</a></li>
 </ul>
 
-<h3>5. Iniciador de Aplicativos</h3>
+<h3>5. Iniciador de Aplicaciones</h3>
 <ul>
   <li>5.1 - <a href="i3wm/05 - Iniciador de Aplicativos/5.1-dmenu.md">dmenu</a></li>
   <li>5.2 - <a href="i3wm/05 - Iniciador de Aplicativos/5.2-rofi.md">rofi</a></li>
@@ -76,7 +76,7 @@ ___
   <li>6.2 - <a href="i3wm/06 - Terminal/6.2-Customizando_terminal.md">Customizando o terminal</a></li>
 </ul>
 
-<h3>7. Customização</h3>
+<h3>7. Personalizacion</h3>
 <ul>
   <li>7.1 - <a href="i3wm/07 - Customização/7.1-Instalando_fontes.md">Instalando fontes personalizadas</a></li>
   <li>7.2 - <a href="i3wm/07 - Customização/7.2-Customizando_polybar.md">Customizando a polybar</a></li>
