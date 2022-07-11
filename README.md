@@ -37,25 +37,25 @@ ___
 
 <h3>1. Introduccion</h3>
 <ul>
-  <li>1.1 - <a href="i3wm/01 - Introdução/1.1-O_que_e_e_porque_usar.md">O que é e porque usar</a></li>
-  <li>1.2 - <a href="i3wm/01 - Introdução/1.2-Instalacao.md">Instalação</a></li>
-  <li>1.3 - <a href="i3wm/01 - Introdução/1.3-Comandos_sobrevivencia.md">Comandos básicos para sobrevivência</a></li>
-  <li>1.4 - <a href="i3wm/01 - Introdução/1.4-Diretorios_e_funcionalidades.md">Diretórios e funcionalidades</a></li>  
+  <li>1.1 - <a href="i3wm/01 - Introdução/1.1-O_que_e_e_porque_usar.md">Que es y porque utilizarlo</a></li>
+  <li>1.2 - <a href="i3wm/01 - Introdução/1.2-Instalacao.md">Instalaciones/a></li>
+  <li>1.3 - <a href="i3wm/01 - Introdução/1.3-Comandos_sobrevivencia.md">Comandos básicos para la supervivencia</a></li>
+  <li>1.4 - <a href="i3wm/01 - Introdução/1.4-Diretorios_e_funcionalidades.md">Directorios y funcionalidades</a></li>  
 </ul>
 
 <h3>2. Usabilidad</h3>
 <ul>
-  <li>2.1 - <a href="i3wm/02 - Usabilidade/2.1-Abrindo_processos.md">Abrindo processos</a></li>
-  <li>2.2 - <a href="i3wm/02 - Usabilidade/2.2-Manipulando_janelas.md">Manipulando posicionamento de janelas</a></li>
-  <li>2.3 - <a href="i3wm/02 - Usabilidade/2.3-Matando_processos.md">Matando processos</a></li>
+  <li>2.1 - <a href="i3wm/02 - Usabilidade/2.1-Abrindo_processos.md">Proceso de apertura</a></li>
+  <li>2.2 - <a href="i3wm/02 - Usabilidade/2.2-Manipulando_janelas.md">Manipulacion de la posicion de las ventanas</a></li>
+  <li>2.3 - <a href="i3wm/02 - Usabilidade/2.3-Matando_processos.md">Matando procesos</a></li>
 </ul>
 
 <h3>3. Archivo de Configuracion</h3>
 <ul>
-  <li>3.1 - <a href="i3wm/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendendo conceitos básicos</a></li>
-  <li>3.2 - <a href="i3wm/03 - Arquivo config/3.2-Criando_atalhos.md">Criando seus próprios atalhos</a></li>
-  <li>3.3 - <a href="i3wm/03 - Arquivo config/3.3-exec_e_exec_always.md">Exec e Exec_Always</a></li>
-  <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4-Configuracoes_basicas.md">Configurações básicas da barra de ferramentas</a></li>
+  <li>3.1 - <a href="i3wm/03 - Arquivo config/3.1-Entendendo_basicos.md">Entendiendo conceptos basicos</a></li>
+  <li>3.2 - <a href="i3wm/03 - Arquivo config/3.2-Criando_atalhos.md">Creando sus proprios atajos</a></li>
+  <li>3.3 - <a href="i3wm/03 - Arquivo config/3.3-exec_e_exec_always.md">Exec y Exec_Always</a></li>
+  <li>3.4 - <a href="i3wm/03 - Arquivo config/3.4-Configuracoes_basicas.md">Configuraciones basicas da barra de herramientas</a></li>
 </ul>
 
 <h3>4. Barra de Estado</h3>
@@ -72,23 +72,23 @@ ___
 
 <h3>6. Terminal</h3>
 <ul>
-  <li>6.1 - <a href="i3wm/06 - Terminal/6.1-Alterando_terminal.md">Como alterar o terminal padrão</a></li>
-  <li>6.2 - <a href="i3wm/06 - Terminal/6.2-Customizando_terminal.md">Customizando o terminal</a></li>
+  <li>6.1 - <a href="i3wm/06 - Terminal/6.1-Alterando_terminal.md">Cambiar terminal pordefecto</a></li>
+  <li>6.2 - <a href="i3wm/06 - Terminal/6.2-Customizando_terminal.md">Personalizando la terminal</a></li>
 </ul>
 
 <h3>7. Personalizacion</h3>
 <ul>
-  <li>7.1 - <a href="i3wm/07 - Customização/7.1-Instalando_fontes.md">Instalando fontes personalizadas</a></li>
-  <li>7.2 - <a href="i3wm/07 - Customização/7.2-Customizando_polybar.md">Customizando a polybar</a></li>
-  <li>7.3 - <a href="i3wm/07 - Customização/7.3-Customizando_rofi.md">Customizando seu rofi</a></li>
-  <li>7.4 - <a href="i3wm/07 - Customização/7.4-Customizando_janelas.md">Customizando janelas</a></li>
+  <li>7.1 - <a href="i3wm/07 - Customização/7.1-Instalando_fontes.md">Instalando fuentes personalizadas</a></li>
+  <li>7.2 - <a href="i3wm/07 - Customização/7.2-Customizando_polybar.md">Personalizando polybar</a></li>
+  <li>7.3 - <a href="i3wm/07 - Customização/7.3-Customizando_rofi.md">Personalizando rofi</a></li>
+  <li>7.4 - <a href="i3wm/07 - Customização/7.4-Customizando_janelas.md">Personalizando Ventanas</a></li>
   <li>7.5 - <a href="i3wm/07 - Customização/7.5-Instalando_temas.md">Instalando temas</a></li>
 </ul>
 
 <h3>8. Extra</h3>
 <ul>
-  <li>8.1 - <a href="i3wm/08 - Extra/8.1-xrandr.md">Como configurar dois monitores no i3wm usando o xrandr</a></li>
-  <li>8.2 - <a href="i3wm/08 - Extra/8.2-Alterando_wallpapers.md">Alterando o Wallpaper</a></li>
+  <li>8.1 - <a href="i3wm/08 - Extra/8.1-xrandr.md">Cómo configurar dos monitores en i3wm usando xrandr/a></li>
+  <li>8.2 - <a href="i3wm/08 - Extra/8.2-Alterando_wallpapers.md">Cambiando el wallpaper</a></li>
 <hr>
 
 <h3>Autores</h3>
