@@ -16,7 +16,7 @@
     * [Manipulando ventanas en i3wm](<i3wm/02 - Usabilidade/2.2-Manipulando\_janelas.md>)
   * [02 - Usabilidad](i3wm/02-usabilidade-2/README.md)
     * [Matando Processos](<i3wm/02 - Usabilidade/2.3-Matando\_processos.md>)
-  * [03 - Archivos de configuracion](i3wm/03-arquivo-config/README.md)
+  * [03 - Archivos de configuracio](i3wm/03-arquivo-config/README.md)
     * [Entendendo conceptos basicos](<i3wm/03 - Arquivo config/3.1-Entendendo\_basicos.md>)
   * [03 - Archivos de configuracion config](i3wm/03-arquivo-config-1/README.md)
     * [Creando sus atajos](<i3wm/03 - Arquivo config/3.2-Criando\_atalhos.md>)
