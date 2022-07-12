@@ -7,7 +7,7 @@
   * [01 - Introdução](i3wm/01-introducao-1/README.md)
     * [Instalando i3wm](<i3wm/01 - Introdução/1.2-Instalacao.md>)
   * [01 - Introduccion](i3wm/01-introducao-2/README.md)
-    * [Primeiros passos no i3wm, sua sobrevivência.](<i3wm/01 - Introdução/1.3-Comandos\_sobrevivencia.md>)
+    * [Primeros pasos en i3wm, para su supervivencia..](<i3wm/01 - Introdução/1.3-Comandos\_sobrevivencia.md>)
   * [01 - Introdução](i3wm/01-introducao-3/README.md)
     * [Diretórios e Funcionalidades](<i3wm/01 - Introdução/1.4-Diretorios\_e\_funcionalidades.md>)
   * [02 - Usabilidade](i3wm/02-usabilidade/README.md)
